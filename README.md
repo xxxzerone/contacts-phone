@@ -8,3 +8,5 @@
 - [공식 문서](https://developer.android.com/identity/providers/contacts-provider/retrieve-names?hl=ko)
 
 ## Preview
+<img width="300" height="600" alt="Screenshot_20260108_232536" src="https://github.com/user-attachments/assets/7a215747-8a8d-43aa-af18-06deea316790" />
+<img width="300" height="600" alt="Screenshot_20260108_232604" src="https://github.com/user-attachments/assets/6a190558-9358-4f78-bdcf-160455466abf" />
